@@ -11,6 +11,7 @@ html,
 	height: 100vh;
 	width: 100vw;
 	display: block;
+	overflow: hidden;
 }
 #unity-container { height: 100vh; width: 100vw; display: block; }
 #unity-canvas { background: #231F20; }
